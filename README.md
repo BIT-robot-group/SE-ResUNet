@@ -98,4 +98,15 @@ If you find this project useful in your research, please consider citing:
   year={2022},
   publisher={IEEE}
 }
+@article{yu2023skgnet,
+  author={Yu, Sheng and Zhai, Di-Hua and Xia, Yuanqing},
+  journal={IEEE Transactions on Automation Science and Engineering}, 
+  title={SKGNet: Robotic Grasp Detection With Selective Kernel Convolution}, 
+  year={2023},
+  volume={20},
+  number={4},
+  pages={2241-2252},
+  publisher={IEEE}
+}
+
 ```
