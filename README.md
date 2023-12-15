@@ -1,5 +1,6 @@
 # SE-ResUNet: A novel robotic grasp detection method
 
+# SKGNet: Robotic Grasp Detection With Selective Kernel Convolution
 
 ## Requirements
 
